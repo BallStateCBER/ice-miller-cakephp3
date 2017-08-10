@@ -9,6 +9,7 @@
 
 <?php $this->start('subsite_title'); ?>
     <?php // Placeholder for a site header element ?>
+    &nbsp;
 <?php $this->end(); ?>
 
 <?php $this->append('scriptBottom'); ?>
