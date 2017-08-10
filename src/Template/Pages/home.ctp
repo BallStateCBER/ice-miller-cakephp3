@@ -1,6 +1,6 @@
-<p>
+<h1>
     <strong>The Ice Miller Edge website has been retired.</strong>
-</p>
+</h1>
 
 <p>
     For editorial articles by Michael Hicks, visit
