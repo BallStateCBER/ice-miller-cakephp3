@@ -8,8 +8,12 @@
 ?>
 
 <?php $this->start('subsite_title'); ?>
-    <?php // Placeholder for a site header element ?>
-    &nbsp;
+    <div id="subsite_title">
+        <img src="/img/logo.jpg" alt="EDGE (Economic Development, Growth, and Exchange)" />
+        <h1 class="sr-only">
+            Ice Miller EDGE (Economic Development, Growth, and Exchange)
+        </h1>
+    </div>
 <?php $this->end(); ?>
 
 <?php $this->append('scriptBottom'); ?>
